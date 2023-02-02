@@ -15,6 +15,7 @@
 +  **I am an enthusiastic selftaught frontend developer, big fan of simplicity and languages (human ones).**
 +  **I am coffee enthusiast,  I used to work in coffee industry.**
 +  **More about me in my [portfolio](https://www.mariuszgruszczynski.com/).**
++   How to reach me **mario.gruszczynski@gmail.com**
   
 </td><td valign="top" width="50%">
 
