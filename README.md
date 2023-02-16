@@ -1,6 +1,6 @@
 #    <h1 align="center">Hey everyone, I am Mariusz :wave:</h1>
 
-<h3 align="center">I'm a self-taught passionate Front-end developer from Poland :poland: based in Spain 🇪🇸</h3>
+<h3 align="center">I'm a self-taught passionate front-end developer from Poland :poland: based in Spain 🇪🇸</h3>
 <br />
 <br />
 
