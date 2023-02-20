@@ -1,8 +1,10 @@
-#    <h1 align="center">Hey everyone, I am Mariusz :wave:</h1>
+#    <h1 align="center">Hey everyone, my name is Mariusz :wave:</h1>
 
-<h3 align="center">I'm a self-taught passionate front-end developer from Poland :poland: based in Spain 🇪🇸</h3>
+<h3 align="center">I am a self-taught frontend developer. Originally from Poland :poland: currently based in Spain 🇪🇸</h3>
 <br />
 <br />
+
+
 
 
 
@@ -12,8 +14,8 @@
 ### **About Me**
 
 
-+  **I am an enthusiastic selftaught frontend developer, big fan of simplicity and languages (human ones).**
-+  **I am coffee enthusiast,  I used to work in coffee industry.**
++  **As an enthusiastic developer, I am committed to achieving simplicity in all my projects. Additionally, my affinity for languages, both programming and human, allows me to communicate effectively with people.**
++  **Prior to my transition to the tech industry, I gained valuable experience in the coffee industry. This experience has instilled in me a strong work ethic and a drive to continuously learn and improve.**
 +  **More about me in my [portfolio](https://www.mariuszgruszczynski.com/).**
 +   How to reach me **mario.gruszczynski@gmail.com**
   
