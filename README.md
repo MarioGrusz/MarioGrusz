@@ -1,5 +1,3 @@
-#    <h1 align="center">Hey everyone, my name is Mariusz :wave:</h1>
-
 # Hey everyone! I'm Mariusz a full-stack developer :wave:
 
 
