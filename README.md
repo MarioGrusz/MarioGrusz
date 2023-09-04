@@ -1,4 +1,4 @@
-# Hey everyone! I'm Mariusz a full-stack developer :wave:
+# Hey everyone! I'm Mariusz a front-end developer :wave:
 
 
 
