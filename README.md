@@ -6,16 +6,17 @@ I have learned quite a bit, but despite the progress made, the hunger for knowle
 
 I have built projects that reflect my interests and include:
 
-* web scraping project for coffee enthusiasts [bean bazaar](https://www.thisisfaraday.com/)
-* ai based app for Spanish language learners [hable mas](https://www.thisisfaraday.com/)
-* learning planner for everyone [task ease](https://www.thisisfaraday.com/)
+* web scraping project for coffee enthusiasts [bean bazaar](https://beanbazaar.netlify.app/)
+* AI based app for Spanish language learners [hable mas](https://hable.netlify.app/)
+* learning planner for everyone [task ease](https://taskease-app.netlify.app/)
+
+In this next phase of my journey, I am seeking positions in which I can apply my skills in a professional capacity.  
 
 Every challenge is an opportunity to learn and grow. If you've navigated a similar path or have insights to share, I'd love to connect and share experiences.
 
 * Read more about me in my [portfolio](https://www.mariuszgruszczynski.com/).
 * If you find my profile interesting, please feel free to reach out. mario.gruszczynski@gmail.com
 
-* PS Facing challenges as a self-taught developer in transition, I welcome connections. If you're in a similar position, let's connect!
   
 ### Technologies
 <p>
