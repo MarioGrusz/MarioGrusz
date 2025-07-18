@@ -3,7 +3,7 @@ I'm **Mariusz**, a Front-End Developer with a love for thoughtful design, clean 
 
 ### 🧠 I belive that:
 
-**Tools are just tools. The product — and the people who use it — come first.**  
+Tools are just tools. The product — and the people who use it — come first. 
 
 
 ### 🚀 What I Do
@@ -19,11 +19,10 @@ I'm actively looking for new opportunities to grow as a developer and contribute
 
 If you're working on something exciting, let’s connect and explore how I can help:
 
-📫 mario.gruszczynski@gmail.com  
+
 🔗 [Portfolio](https://www.mariuszgruszczynski.com/)  
 💼 [LinkedIn](https://www.linkedin.com/in/mariuszgruszczynski/)
 
----
 
 > “Every challenge is a chance to learn — and I'm here for it.”
 
