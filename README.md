@@ -1,32 +1,31 @@
-Hello! I'm Mariusz 🌍, originally from Poland 🇵🇱 and currently call Madrid home 🏠.
+# Hello there 👋  
+I'm **Mariusz**, a Front-End Developer with a love for thoughtful design, clean code, and strong coffee ☕️ 
 
-My professional journey has been quite a ride, transitioning from the coffee industry to pursuing a career in tech. Fueled by curiosity, I've been on this adventure for almost two years now.
+### 🧠 I belive that:
 
-I have learned quite a bit, but despite the progress made, the hunger for knowledge keeps me going.
+**Tools are just tools. The product — and the people who use it — come first.**  
 
-I have built projects that reflect my interests and include:
 
-* web scraping project for coffee enthusiasts [bean bazaar](https://beanbazaar.netlify.app/)
-* AI based app for Spanish language learners [hable mas](https://hable.netlify.app/)
-* learning planner for everyone [task ease](https://taskease-app.netlify.app/)
+### 🚀 What I Do
 
-In this next phase of my journey, I am seeking positions in which I can apply my skills in a professional capacity.  
+Currently focused on building modern, fast, and accessible products with **Vue**, **React**, and **TypeScript**. I care deeply about developer experience, performance, and the impact design has on usability.
 
-Every challenge is an opportunity to learn and grow. If you've navigated a similar path or have insights to share, I'd love to connect and share experiences.
+I love working across the stack and enjoy tackling challenges from UI polish to backend logic and everything in between
 
-* Read more about me in my [portfolio](https://www.mariuszgruszczynski.com/).
-* If you find my profile interesting, please feel free to reach out. mario.gruszczynski@gmail.com
 
-  
-### Technologies
-<p>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg'>
-<img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'>
-</p>
+### 💬 Let’s Talk
+
+I'm actively looking for new opportunities to grow as a developer and contribute meaningfully to product teams.  
+
+If you're working on something exciting, let’s connect and explore how I can help:
+
+📫 mario.gruszczynski@gmail.com  
+🔗 [Portfolio](https://www.mariuszgruszczynski.com/)  
+💼 [LinkedIn](https://www.linkedin.com/in/mariuszgruszczynski/)
+
+---
+
+> “Every challenge is a chance to learn — and I'm here for it.”
 
 
 
