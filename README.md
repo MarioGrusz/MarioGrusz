@@ -14,21 +14,11 @@ I love working across the stack and enjoy tackling challenges from UI polish to 
 <p>
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg" />
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg" />
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/vuejs.svg" />
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg" />
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nodejs.svg" />
 <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/postgresql.svg" />
-<img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg" />
 </p>
 
-
-### 🤝 Looking Ahead
-
-I'm looking for new opportunities where I can:
-
-- Build user-centered products that matter  
-- Collaborate with thoughtful teams  
-- Keep learning and refining my craft
 
 
 🔗 [Portfolio](https://www.mariuszgruszczynski.com/)  
