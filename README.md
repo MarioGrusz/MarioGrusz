@@ -20,8 +20,7 @@ I love working across the stack and enjoy tackling challenges from UI polish to 
 </p>
 
 
-
-🔗 [Portfolio](https://www.mariuszgruszczynski.com/)  
+ 
 💼 [LinkedIn](https://www.linkedin.com/in/mariuszgruszczynski/)
 
 
